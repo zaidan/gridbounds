@@ -1,0 +1,5 @@
+extra-deps:
+- earclipper-0.0.0.1
+- gjk-0.0.0.1
+- gridbox-0.3.0.0
+resolver: lts-7.19
