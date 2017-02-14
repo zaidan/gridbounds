@@ -1,3 +1,5 @@
+{-| Triangulate
+-}
 module GridBounds.Triangulate
   ( createGrid
   , createCompressedGrid

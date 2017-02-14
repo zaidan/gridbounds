@@ -1,3 +1,5 @@
+{-| Bounds
+-}
 module GridBounds.Bounds
   ( Bounds
   , bound

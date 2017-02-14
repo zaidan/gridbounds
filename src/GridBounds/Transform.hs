@@ -1,3 +1,5 @@
+{-| Transform
+-}
 module GridBounds.Transform
   ( transform
   , transformList
